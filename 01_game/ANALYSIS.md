@@ -1,6 +1,8 @@
 # CompSci 308: Game Analysis
 
 > This is the link to the assignment: [Game](http://www.cs.duke.edu/courses/compsci308/current/assign/01_game/)
+>
+> [Code](https://github.com/ramilmsh-archive/cs308_bounceball) for the project 
 
 ## Project Journal
 
