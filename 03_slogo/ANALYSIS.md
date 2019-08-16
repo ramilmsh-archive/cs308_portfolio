@@ -1,6 +1,8 @@
 # CompSci 308: SLogo Analysis
 
 > This is the link to the assignment: [SLogo](http://www.cs.duke.edu/courses/compsci308/current/assign/03_slogo/)
+>
+> [Code](https://github.com/ramilmsh-archive/cs308_slogo) for the project
 
 ## Design Review
 
