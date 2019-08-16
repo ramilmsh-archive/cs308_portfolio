@@ -2,6 +2,9 @@
 
 > We have created a working implementation of cell society for the first sprint, however, after we learned about extra points, we had to do some dramatic changes on the backend, however, since we were not able to integrate it, it remains in, in new_grid_layout, while the visualizer code is most up-to-date on master
 
+>
+> [Code](https://github.com/ramilmsh-archive/cs308_bounceball) for the project
+
 ## Overall Design
 
 ### Overall
